@@ -1,0 +1,87 @@
+/* credits aan yusuf */
+body{
+    background-color: #736F9E;
+    color: white;
+}
+header{
+    text-align: center;
+    border-bottom: white 2px solid;
+    height: 40px;
+
+}
+.navi{
+    color: lightblue;
+    color:white;
+    text-align: center;
+    border-bottom: white 2px solid;
+    height: 70px;
+    margin-bottom: 100px;
+    text-decoration: none;
+
+}
+.navi :hover{
+    text-underline-position: below ;
+    color: blue;
+    cursor: pointer;
+}
+.wrapper{
+    height: 48vh;
+    display: flex;
+    width: auto;
+    margin-top: 30px;
+}
+button{
+    background-color: #E6E4DF;
+    width: 200px;
+    height: 50px;
+    margin: 100px;
+    margin-top: 10px;
+    width: 130px;
+}
+.text{
+    background-color: #736F9E;
+    height: 230px;
+    width: 600px;
+    color: rgb(255, 255, 255);
+    margin-left: 110px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-left: 120px;
+
+}
+.imgright{
+    float: right;
+    margin-right: 40px;
+}
+
+footer {
+    background-color:#736F9E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    bottom: 0;
+    border-top: white 3px solid;
+    margin-top: 98px;
+}
+
+.social-icon-div{
+    background-color: #736F9E;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 0px;
+}
+
+.social-icon {
+    color:white;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+}
+
+
